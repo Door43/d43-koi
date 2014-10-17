@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[koi:home|Door43 (koi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-koi|d43-koi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-koi/archive/master.zip|d43-koi.zip]]
+
+**Recent Changes**
+{{changes>ns = koi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/koi|Ethnologue data]]
+
